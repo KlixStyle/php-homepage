@@ -1,0 +1,5 @@
+<input type="text" name="geschlecht" value="<?php
+     if (isset($_GET["aendern"])) {
+      echo $zeile[3];
+     }
+    ?>">
