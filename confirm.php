@@ -1,5 +1,5 @@
 <?php
-$text = isset($_GET["text"]) ? $_GET["text"] : "Are you shoure?";
+$text = isset($_GET["text"]) ? $_GET["text"] : "Are you sure?";
 $confirm_url = isset($_GET["confirm"]) ? $_GET["confirm"] : "";
 $deny_url = isset($_GET["deny"]) ? $_GET["deny"] : "";
 ?>

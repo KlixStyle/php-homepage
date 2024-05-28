@@ -1,1 +1,1 @@
-Verbindungsm&ouml;glichkeit ins Internet
+Verbindungsmöglichkeit ins Internet
